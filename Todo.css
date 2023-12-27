@@ -1,0 +1,15 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    color: black;
+}
+h1 {
+    padding-top: 40px;
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+body{
+    display: block; 
+}
